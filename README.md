@@ -1,4 +1,4 @@
-# TUTORIAL: Sentiment analysis on Tweets using Hugging Face
+# Create a notebook for sentiment analysis on Tweets using Hugging Face with AI Notebooks (OVHcloud)
 
 The aim of this tutorial is to use NLP to analyse sentiments on Tweets.
 
